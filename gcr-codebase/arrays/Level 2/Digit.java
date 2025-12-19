@@ -16,7 +16,7 @@ public class Digit {
             digitsArray[index++] = 0;
         } else {
             while (tempNumber != 0) {
-                digitsArray[index] = (int) (tempNumber % 
+                digitsArray[index] = (int) (tempNumber % 10);
                 tempNumber /= 10;
 
                 index++;

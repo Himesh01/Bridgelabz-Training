@@ -6,7 +6,8 @@ public class Program2 {
         System.out.print("Enter a number: ");
         long number = scanner.nextLong();
         scanner.close();
-
+  
+        
         long tempNumber = Math.abs(number);
         int maxDigit = 10;
         int[] digits = new int[maxDigit];

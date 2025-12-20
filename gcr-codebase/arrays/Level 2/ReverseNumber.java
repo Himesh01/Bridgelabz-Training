@@ -8,7 +8,7 @@ public class ReverseNumber {
         int inputNumber = scanner.nextInt();
         int tempNumber = Math.abs(inputNumber);
         scanner.close();
-
+        System.out.println("welcome to Reverse Number");
         if (inputNumber == 0) {
             System.out.println("reversed order: [0]");
             return;

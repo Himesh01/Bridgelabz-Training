@@ -18,7 +18,6 @@ public class AnagramChecker {
         
         scanner.close();
     }
-
     //Method to check if two strings are anagrams using character frequency.
     public static boolean isAnagram(String str1, String str2) {
         str1 = str1.replaceAll("\\s", "").toLowerCase();

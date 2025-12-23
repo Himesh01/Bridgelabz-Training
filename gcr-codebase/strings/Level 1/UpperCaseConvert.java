@@ -3,7 +3,7 @@ public class UpperCaseConvert{
 	public static void main(String[] args){
 		Scanner sc = new Scanner(System.in);
 		String s = sc.nextLine();
-		System.out.println(s+" converted to upper case using user methods  "+toUpper(s));
+		System.out.println(s+" converted to upper case using user methos  "+toUpper(s));
 		System.out.println(s+" converted to in built in method  "+s.toUpperCase());
 	}
 	public static String toUpper(String s){

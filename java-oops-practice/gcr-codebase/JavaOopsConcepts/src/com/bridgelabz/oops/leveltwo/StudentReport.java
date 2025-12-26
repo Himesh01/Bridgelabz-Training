@@ -71,7 +71,6 @@ public class StudentReport {
 			StudentReport student1 = new StudentReport("Thamarai", "ECE001", mark1);
 			StudentReport student2 = new StudentReport("Kannan","CSC002",mark2);
 			
-			//calling the display method
 			student1.displayStudent();
 			student2.displayStudent();
 		}

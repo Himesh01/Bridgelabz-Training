@@ -46,7 +46,7 @@ Day 3: Git practice and basic java programs
 Code link  
 [Day 3: Programming Elements](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
 
-Day 4: java control flow programs  
+Day 4: Java control flow programs  
 (Date: 19 Dec 2025)  
 
 > Studied java control flow  
@@ -58,16 +58,16 @@ Day 4: java control flow programs
 Code link  
 [Day 4: Control flow](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
 
-Day 5: studied Arrays in java  
+Day 5: Studied Arrays in java  
 (Date: 20 Dec 2025)  
 
 > Studied java Arrays  
 > Solved practice problem based on array.  
 > Commited and pushed solutions to repository.  
 Code link  
-[Day 5: Control flow](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/gcr-codebase/arrays)
+[Day 5: Arrays in java](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
-Day 6: studied methods in java  
+Day 6: Studied methods in java  
 (Date: 22 Dec 2025)  
 
 > Studied java methods    
@@ -76,7 +76,7 @@ Day 6: studied methods in java
 Code link  
 [Day 6: Methods ](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/gcr-codebase/methods)
 
-Day 7: studied strings in java  
+Day 7: Studied strings in java  
 (Date: 23 Dec 2025)  
 
 > Studied java strings.      
@@ -85,7 +85,7 @@ Day 7: studied strings in java
 Code link  
 [Day 7: Strings ](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/gcr-codebase/strings)
 
-Day 8: studied date and time concept in java and solved extra questions  
+Day 8: Studied date and time concept in java and solved extra questions  
 (Date: 24 Dec 2025)  
 
 > Studied how to get dates in different formats in java.

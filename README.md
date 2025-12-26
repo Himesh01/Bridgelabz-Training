@@ -94,3 +94,17 @@ Day 8: Studied date and time concept in java and solved extra questions
 > Commited and pushed solutions to repository.  
 Code link  
 [Day 8: Extra questions ](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/gcr-codebase/Extras)
+
+Day 9: Solved Scenario-based, real-world Java problems
+(Date: 25 Dec 2025)
+
+> Learned the following concepts:
+
+>Variables, literals, and primitive data types
+>Basic input and output using Scanner
+>Conditional logic using if, else, ternary, and switch
+>Loops such as for, while, do-while, and for-each
+>Control flow using break and continue
+>Clean code practices including proper naming, indentation, and comments
+Code link
+[Day 9: Scenario-based ](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/scenario-based-codebase)

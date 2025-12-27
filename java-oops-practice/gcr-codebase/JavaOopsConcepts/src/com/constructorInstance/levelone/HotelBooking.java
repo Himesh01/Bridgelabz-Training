@@ -9,6 +9,7 @@ public class HotelBooking {
      public HotelBooking() {
     	 this("xys","normal",1);
      }
+     
      public HotelBooking(String customerName,String roomType,int nights) {
     	 this.customerName = customerName;
     	 this.roomType = roomType;

@@ -5,11 +5,13 @@ public class Product {
 	public String productName;
 	public int price;
 	static int count =0;
+	
 	public Product(String prodName, int price) {
 		this.productName = prodName;
 		this.price = price;
 		this.count+=1;
 	}
+	
 	public void displayProductDetails() {
 		System.out.println("Product Name: "+this.productName);
 		System.out.println("Product price: "+this.price);

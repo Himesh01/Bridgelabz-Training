@@ -170,5 +170,3 @@ Code Link
 	**Date:** 27-Dec-2025
 [Day 2: leetcode-Strings ](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/leet-code-codebase/strings/Day-3)
 [Day 2: leetcode-Arrays ] (https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/leet-code-codebase/arrays/Day-3)
-
-

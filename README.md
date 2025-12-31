@@ -162,11 +162,12 @@ Code Link
 	
 ## 📅 Day 2 - Solved Three Scenario-based Problems and Leetcode-codebase
 **Date:** 30-Dec-2025
-	-Solved Five Scenario-based Problems 
-	🔗 **Code Link:** <br>
+	>Solved Five Scenario-based Problems 
+	>🔗 **Code Link:** <br>
 	👉[Day-2: Scenario-based ] (https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/scenario-based-codebase/Day-4)
-	--- Leetcode Day-2 
-**Date:** 27-Dec-2025
+	
+	--- Leetcode Day-2
+	**Date:** 27-Dec-2025
 [Day 2: leetcode-Strings ](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/leet-code-codebase/strings/Day-3)
 [Day 2: leetcode-Arrays ] (https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/leet-code-codebase/arrays/Day-3)
 

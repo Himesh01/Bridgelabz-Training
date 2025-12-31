@@ -1,4 +1,4 @@
-# Week 1: Git, GitHub & Java Programming Fundamentals
+## Week 1: Git, GitHub & Java Programming Fundamentals
 
 ---
 
@@ -87,7 +87,7 @@ Code link
 [Day 6: Methods ](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/gcr-codebase/methods)
 
 
-# Week2 : Worked on Strings and Extras Problems
+## Week2 : Worked on Strings and Extras Problems
 
 ---
 ## 📅 Day 1 – Strings Concepts & Problems  
@@ -150,7 +150,7 @@ Code Link
 [Day 6: leetcode-Arrays ] (https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/leet-code-codebase/arrays/Day-2)
 
 
-# Week3 : Worked on Scenario Based and Leetcode-codebase
+## Week3 : Worked on Scenario Based and Leetcode-codebase
 
 
 ## 📅 Day 1 - Solved Three Scenario-based Problems and Leetcode-codebase

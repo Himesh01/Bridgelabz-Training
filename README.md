@@ -157,16 +157,32 @@ Code Link
 **Date:** 29-Dec-2025
 	-Solved Five Scenario-based Problems 
 	🔗 **Code Link:** <br>
-	👉[Day-1: Scenario-based ] (https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/scenario-based-codebase/Day-3)
+	👉[Day-1: Scenario-based ](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/scenario-based-codebase/Day-3)
 	
 	
 ## 📅 Day 2 - Solved Three Scenario-based Problems and Leetcode-codebase
 **Date:** 30-Dec-2025
 	>Solved Five Scenario-based Problems 
 	>🔗 **Code Link:** <br>
-	👉[Day-2: Scenario-based ] (https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/scenario-based-codebase/Day-4)
+	👉[Day-2: Scenario-based ](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/scenario-based-codebase/Day-4)
 	
 	--- Leetcode Day-2
-	**Date:** 27-Dec-2025
-[Day 2: leetcode-Strings ](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/leet-code-codebase/strings/Day-3)
-[Day 2: leetcode-Arrays ] (https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/leet-code-codebase/arrays/Day-3)
+	**Date:** 30-Dec-2025
+[Day 2: leetcode-Strings](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/leet-code-codebase/strings/Day-3)
+[Day 2: leetcode-Arrays ](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/leet-code-codebase/arrays/Day-3)
+
+## 📅 Day 3 - Solved Five Scenario-based Problems 
+**Date:** 31-Dec-2025
+	>Solved Five Sceanrio-based Problems
+	>🔗 **Code Link:** <br>
+	👉[Day-3: Scenario-based ](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/scenario-based-codebase/Day-5)
+	
+	
+## Week3 : Worked on Scenario Based and Leetcode-codebase
+
+## 📅 Day 1 - Solved Leecode-codebase Problems
+**Date:** 05-Jan-2026
+	>Solved Five Leetcode problems
+	>🔗 **Code Link:** <br>
+	👉[Day-1: Leetcode-Strings](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/leet-code-codebase/strings/Day-4)
+	👉[Day-1: Leetcode-Arrays](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/leet-code-codebase/arrays/Day-4)

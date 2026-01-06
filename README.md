@@ -92,9 +92,10 @@ Code Link: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops
 - Pushed solutions to GitHub
 
 Code Link1: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/scenariobasedpractice/src/scenariobasedpractice/collegeinformation)
+
 Code Link2: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/scenariobasedpractice/src/scenariobasedpractice/swiftcart)
 
-### (Day -01) – Object Oriented programming scenario based questions
+### (Day -02) – Object Oriented programming scenario based questions
 **(Date: 6-Jan-2026)**
 
 - Solved 4 scenario-based problems
@@ -102,6 +103,10 @@ Code Link2: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oop
 - Pushed solutions to GitHub
 
 Code Link1: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/scenariobasedpractice/src/scenariobasedpractice/edumentor)
+
 Code Link1: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/scenariobasedpractice/src/scenariobasedpractice/fittrack)
+
 Code Link1: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/scenariobasedpractice/src/scenariobasedpractice/eventease)
+
 Code Link1: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/scenariobasedpractice/src/scenariobasedpractice/petpal)
+

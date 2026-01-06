@@ -29,6 +29,16 @@ BridgeLabz-Training/
 
 🔗 *Code Link:*  
 [Day 2 - HashMap and Hashing Function](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructure/src/com/hashmap)
-[Day 2 - Stack and Queue] (https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructure/src/com/stackqueue)
 
+[Day 2 - Stack and Queue](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructure/src/com/stackqueue)
 
+## Week 3: Data Structures & Algorithms
+
+## 🗓 Day 1 – Sorting Algorithms
+*(Date: 05-Jan-2026)*
+
+- [Studeid Sorting Algorithms]: Bubble Sort,Insertion Sort, Merge Sort, and Quick Sort
+- Solved Problems by using Sorting Algorithms
+- Committed and pushed all changes successfully.
+🔗 *Code Link:*  
+[Day 1 - Sorting](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructure/src/com/sorting)

@@ -193,3 +193,10 @@ Code Link
 	>🔗 **Code Link:** <br>
 	👉[Day-2: Leetcode-Strings](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/leet-code-codebase/strings/Day-5)
 	
+	
+## 📅 Day 3 - Solved Leecode-codebase Problems
+**Date:** 07-Jan-2026
+	>Solved two Leetcode problems
+	>🔗 **Code Link:** <br>
+	👉[Day-3: Leetcode-Arrays](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/leet-code-codebase/arrays/Day-5)
+	

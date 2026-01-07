@@ -169,9 +169,10 @@ Code Link
 	--- Leetcode Day-2
 	**Date:** 30-Dec-2025
 [Day 2: leetcode-Strings](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/leet-code-codebase/strings/Day-3)
+
 [Day 2: leetcode-Arrays ](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/leet-code-codebase/arrays/Day-3)
 
-## 📅 Day 3 - Solved Five Scenario-based Problems 
+## 📅 Day 3 - Solved Five Scenario-based Problems
 **Date:** 31-Dec-2025
 	>Solved Five Sceanrio-based Problems
 	>🔗 **Code Link:** <br>
@@ -185,6 +186,7 @@ Code Link
 	>Solved Five Leetcode problems
 	>🔗 **Code Link:** <br>
 	👉[Day-1: Leetcode-Strings](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/leet-code-codebase/strings/Day-4)
+	
 	👉[Day-1: Leetcode-Arrays](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/leet-code-codebase/arrays/Day-4)
 	
 ## 📅 Day 2 - Solved Leecode-codebase Problems

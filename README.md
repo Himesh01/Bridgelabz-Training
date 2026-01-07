@@ -51,7 +51,9 @@ BridgeLabz-Training/
 - Commited and pushed all changes successfully.
 🔗 *Code Link:*
 [Day 2 - Binary search](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructure/src/com/binarysearch)
+
 [Code link - Linear search](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructure/src/com/linearsearch)
+
 [Code link - File reader](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructure/src/com/filereader)
 
 ## 🗓 Day 3 – Algorithm's Runtime Analysis & Big-O Notation

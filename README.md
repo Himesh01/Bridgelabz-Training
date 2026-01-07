@@ -162,7 +162,7 @@ Code Link: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops
 	-Object Oriented programming with this, final and static
 	-Did some OOPS questions on final, static and this 
 
-	Code Link:  [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/inbuiltfunction) 
+	[Code Link:  Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/inbuiltfunction) 
 
 	
 ## 📅 Day 2 - Oops and Solved Three Scenario-based Problems and Leetcode-codebase
@@ -176,24 +176,27 @@ Code Link: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops
 [Day 2: leetcode-Strings](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/leet-code-codebase/strings/Day-3)
 [Day 2: leetcode-Arrays ](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/leet-code-codebase/arrays/Day-3)
 
-	>Object Oriented programming using language features and submission of Object Oriented Design Principles. 
-	>Solved some OOPS questions and learned about class diagrams and class representation 
+	-Object Oriented programming using language features and submission of Object Oriented Design Principles. 
+	-Solved some OOPS questions and learned about class diagrams and class representation 
 	
-	Code Link:  [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/relationship)
+	[Code Link:  Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/relationship)
  
-	>Object Modeling, Class Diagram
-	Code Link: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/relationship/Diagram)
+	-Object Modeling, Class Diagram
+	
+	[Code Link: Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/relationship/Diagram)
  
 ## 📅 Day 3 - Oops and Solved Five Scenario-based Problems 
 **Date:** 31-Dec-2025
 	>Solved Five Sceanrio-based Problems
+	
 	>🔗 **Code Link:** <br>
+	
 	👉[Day-3: Scenario-based ](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/scenario-based-codebase/Day-5)
 	
-	>Object Oriented programming using inheritance
-	>Did OOPS questions and learned about inheritance
+	-Object Oriented programming using inheritance
+	-Did OOPS questions and learned about inheritance
 	
-	Code Link: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/inheritance) 
+	[Code Link: Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/inheritance) 
 
 ## 📅 Day 4 – Learned Object Oriented programming using Encapsulation, Interface, Abstract Classes, and Polymorphism 
 **(Date: 01-Jan-2026)**
@@ -240,15 +243,16 @@ Code Link: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops
 ## 📅 Day 1 - Solved Leecode-codebase Problems and Studeied Sorting Algorithms
 **Date:** 05-Jan-2026
 	>Solved Five Leetcode problems
+	
 	>🔗 **Code Link:** <br>
 	👉[Day-1: Leetcode-Strings](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/leet-code-codebase/strings/Day-4)
 	
 	👉[Day-1: Leetcode-Arrays](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/leet-code-codebase/arrays/Day-4)
 	
-	>Object Oriented programming scenario based questions
-	>Solved 2 scenario-based problems
-	>Solved practice problems and enchance the feature
-	>Pushed solutions to GitHub
+-Object Oriented programming scenario based questions
+-Solved 2 scenario-based problems
+-Solved practice problems and enchance the feature
+-Pushed solutions to GitHub
 
 Code Link1: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/scenariobasedpractice/src/scenariobasedpractice/collegeinformation)
 
@@ -306,9 +310,10 @@ Code Link1: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oop
 	
 	>Solved 3 scenario-based problems
 	
-	Code Link1: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/scenariobasedpractice/src/scenariobasedpractice/loanbuddy)
+[Code Link1: Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/scenariobasedpractice/src/scenariobasedpractice/loanbuddy)
 
-	Code Link2: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/scenariobasedpractice/src/scenariobasedpractice/bookbazaar)
+[Code Link2: Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/scenariobasedpractice/src/scenariobasedpractice/bookbazaar)
 
-	Code Link3: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/scenariobasedpractice/src/scenariobasedpractice/parkease)
+[Code Link3: Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/scenariobasedpractice/src/scenariobasedpractice/parkease)
+	
 	

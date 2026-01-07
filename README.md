@@ -263,7 +263,7 @@ Code Link2: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oop
 
 ## 📅 Day 2 - Studied about Searching Algorithms in dsa
 **(Date: 6-Jan-2026)**
-	>Solved Leecode-codebase Problems
+	>Solved Leetcode-codebase Problems
 	>Object Oriented programming scenario based questions
 
 	>Solved 4 scenario-based problems
@@ -277,3 +277,38 @@ Code Link1: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oop
 Code Link1: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/scenariobasedpractice/src/scenariobasedpractice/eventease)
 
 Code Link1: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/scenariobasedpractice/src/scenariobasedpractice/petpal)
+
+	>Solved two Leetcode problems
+	
+	👉[Day-2: Leetcode-Strings](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/leet-code-codebase/strings/Day-5)
+
+
+## 📅 Day 3 - Studied about Searching algorithms in dsa and Solved three oops Scenario-based Problems
+**(Date: 7-Jan-2026)**'
+	>Solved Leetcode-codebase Problems
+	>Object 3 oriented Programming scenario based questions
+	
+	>Linear Search and Binary Search, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader
+
+	>Commited and pushed all changes successfully.
+
+🔗 *Code Link:*
+
+[Day 2 - Binary search](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructure/src/com/binarysearch)
+
+[Code link - Linear search](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructure/src/com/linearsearch)
+
+[Code link - File reader](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructure/src/com/filereader)
+
+	>Solved two Leetcode problems
+	
+	👉[Day-3: Leetcode-Arrays](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/leet-code-codebase/arrays/Day-5)
+	
+	>Solved 3 scenario-based problems
+	
+	Code Link1: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/scenariobasedpractice/src/scenariobasedpractice/loanbuddy)
+
+	Code Link2: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/scenariobasedpractice/src/scenariobasedpractice/bookbazaar)
+
+	Code Link3: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/scenariobasedpractice/src/scenariobasedpractice/parkease)
+	

@@ -42,3 +42,20 @@ BridgeLabz-Training/
 - Committed and pushed all changes successfully.
 🔗 *Code Link:*  
 [Day 1 - Sorting](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructure/src/com/sorting)
+
+## 🗓 Day 2 – Linear Search and Binary Search, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader
+*(Date: 06-Jan-2026)*
+
+-[Studied Linear Search and Binary Search, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader]
+- Solved problems on these topics
+- Commited and pushed all changes successfully.
+🔗 *Code Link:*
+[Day 2 - Binary search](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructure/src/com/binarysearch)
+[Code link - Linear search](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructure/src/com/linearsearch)
+[Code link - File reader](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructure/src/com/filereader)
+
+## 🗓 Day 3 – Algorithm's Runtime Analysis & Big-O Notation
+*(Date: 07-Jan-2026)*
+
+- Worked on "dsa-practice" and "java-oops-practice" branch
+- Learned Algorithm's Runtime Analysis & Big-O Notation

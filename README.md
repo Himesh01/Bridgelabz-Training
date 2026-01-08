@@ -113,9 +113,9 @@ Code Link4: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oop
 ### (Day -03) – Object Oriented programming scenario based questions
 **(Date: 7-Jan-2026)**
 
--Solved 3 scenario-based problems
--Solved practice problems and enhance the feature
--Pushed solutions to github
+- Solved 3 scenario-based problems
+- Solved practice problems and enchance the feature
+- Pushed solutions to GitHub
 
 Code Link1: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/scenariobasedpractice/src/scenariobasedpractice/loanbuddy)
 
@@ -127,9 +127,9 @@ Code Link3: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oop
 ### (Day -04) – Object Oriented programming scenario based questions
 **(Date: 8-Jan-2026)**
 
--Solved 2 scenario-based problems
--Solved practice problems and enhance the feature
--Pushed solutions to github
+- Solved 2 scenario-based problems
+- Solved practice problems and enchance the feature
+- Pushed solutions to GitHub
 
 Code Link 1: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/scenariobasedpractice/src/scenariobasedpractice/medistore)
 

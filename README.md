@@ -179,7 +179,7 @@ Code Link
 	👉[Day-3: Scenario-based ](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/scenario-based-codebase/Day-5)
 	
 	
-## Week3 : Worked on Scenario Based and Leetcode-codebase
+## Week 4 : Worked on Scenario Based and Leetcode-codebase
 
 ## 📅 Day 1 - Solved Leecode-codebase Problems
 **Date:** 05-Jan-2026
@@ -191,14 +191,29 @@ Code Link
 	
 ## 📅 Day 2 - Solved Leecode-codebase Problems
 **Date:** 06-Jan-2026
+
 	>Solved two Leetcode problems
+	
 	>🔗 **Code Link:** <br>
+	
 	👉[Day-2: Leetcode-Strings](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/leet-code-codebase/strings/Day-5)
 	
 	
 ## 📅 Day 3 - Solved Leecode-codebase Problems
 **Date:** 07-Jan-2026
+
 	>Solved two Leetcode problems
+	
 	>🔗 **Code Link:** <br>
+	
 	👉[Day-3: Leetcode-Arrays](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/leet-code-codebase/arrays/Day-5)
 	
+	
+## 📅 Day 4 - Solved Leecode-codebase Problems
+**(Date: 08-Jan-2026)**
+
+- Solved Two leetcode Problems
+- 🔗 **Code Link:** <br>
+
+👉[Day-3: Leetcode-Strings](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/leet-code-codebase/strings/Day-6)
+

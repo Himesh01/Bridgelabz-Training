@@ -331,3 +331,17 @@ Code Link1: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oop
 
 [Leetcode Strings code link](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/leet-code-codebase/strings/Day-6)
 
+### (Day -05) - Object Oriented programming scenario based questions
+**(Date: 9-Jan-2026)**
+
+- Solved 3 scenario-based problems
+- Solved practice problems and enhance the feature
+- pushed solutions to github
+
+Code Link 1: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/scenariobasedpractice/src/scenariobasedpractice/Artify)
+
+Code Link 2: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/scenariobasedpractice/src/scenariobasedpractice/FoodLoop)
+
+Code Link 3: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/scenariobasedpractice/src/scenariobasedpractice/SkillForge)
+
+

@@ -344,4 +344,21 @@ Code Link 2: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oo
 
 Code Link 3: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/scenariobasedpractice/src/scenariobasedpractice/SkillForge)
 
+### (Day -06) - Data structure and Algorithms based scenario based Problems
+**(Date: 10-Jan-2026)**
+
+- Studeid data structures and Algorithms
+- Solved 3 DSA based real time scenario questions
+	- 🔗 **Code Link:** <br>
+ 
+[Code link - BookShelf](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bookshelf)
+
+[Code link - BrowserBuddy](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/browserBuddy)
+
+[Code link -AmbulanceRoute](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/AmbulanceRoute)
+
+- Solved two Array based leetcode problems
+	- 🔗 **Code Link:** <br>
+
+👉[Day-3: Leetcode - Arrays](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/leet-code-codebase/arrays/Day-6)
 

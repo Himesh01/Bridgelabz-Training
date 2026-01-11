@@ -215,8 +215,8 @@ Code Link
 - Solved two Leetcode problems
 	
  🔗 **Code Link:** <br>
-	
-	👉[Day-3: Leetcode-Arrays](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/leet-code-codebase/arrays/Day-5)
+
+👉[Day-3: Leetcode-Arrays](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/leet-code-codebase/arrays/Day-5)
 	
 	
 ## 📅 Day 4 - Solved Leecode-codebase Problems
@@ -227,3 +227,11 @@ Code Link
 
 👉[Day-3: Leetcode-Strings](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/leet-code-codebase/strings/Day-6)
 
+## 📅 Day 6 - Solved Leecode-codebase Problems
+**(Date: 10-Jan-2026)**
+
+- Solved Two leetcode Problems
+- Solved two Array based leetcode problems
+- 🔗 **Code Link:** <br>
+
+👉[Day-3: Leetcode - Arrays](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/leet-code-codebase/arrays/Day-6)

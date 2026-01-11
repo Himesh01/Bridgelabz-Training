@@ -71,8 +71,14 @@ BridgeLabz-Training/
 ## 🗓 Day 4 - Studied Data Structure and Algorithm
 *(Date: 08-Jan-2026)*
 
+- Studied Data Structure and Algorithm
+- Linked List
+
 ## 🗓 Day 5 - Studied Data Structure and Algorithm
 *(Date: 09-Jan-2026)*
+
+- Studied Data Structure and Algorithm
+- ArrayList
 
 ## 🗓 Day 6 - Studied Data Structure and Algorithm and Solved Real world Sceanrio Based Problems using data Structure
 *(Date: 10-Jan-2026)*
@@ -80,7 +86,8 @@ BridgeLabz-Training/
 - Studied Data Structure and Algorithm
 - Solved Real world Sceanrio Based Problems using data Structure
 
- - Sceanrio Based Problems Link
+	- Sceanrio Based Problems Link
+ 
 [Code link - BookShelf](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bookshelf)
 
 [Code link - BrowserBuddy](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/browserBuddy)

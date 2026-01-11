@@ -32,7 +32,7 @@ BridgeLabz-Training/
 
 [Day 2 - Stack and Queue](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructure/src/com/stackqueue)
 
-## Week 3: Data Structures & Algorithms
+## Week 4: Data Structures & Algorithms
 
 ## 🗓 Day 1 – Sorting Algorithms
 *(Date: 05-Jan-2026)*
@@ -40,6 +40,7 @@ BridgeLabz-Training/
 - [Studeid Sorting Algorithms]: Bubble Sort,Insertion Sort, Merge Sort, and Quick Sort
 - Solved Problems by using Sorting Algorithms
 - Committed and pushed all changes successfully.
+
 🔗 *Code Link:*  
 [Day 1 - Sorting](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructure/src/com/sorting)
 
@@ -49,7 +50,9 @@ BridgeLabz-Training/
 -[Studied Linear Search and Binary Search, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader]
 - Solved problems on these topics
 - Commited and pushed all changes successfully.
+
 🔗 *Code Link:*
+
 [Day 2 - Binary search](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructure/src/com/binarysearch)
 
 [Code link - Linear search](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructure/src/com/linearsearch)
@@ -61,3 +64,26 @@ BridgeLabz-Training/
 
 - Worked on "dsa-practice" and "java-oops-practice" branch
 - Learned Algorithm's Runtime Analysis & Big-O Notation
+
+🔗 *Code Link:*
+[Code link - Time Complexity](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructure/src/com/timeComplexity)
+
+## 🗓 Day 4 - Studied Data Structure and Algorithm
+*(Date: 08-Jan-2026)*
+
+## 🗓 Day 5 - Studied Data Structure and Algorithm
+*(Date: 09-Jan-2026)*
+
+## 🗓 Day 6 - Studied Data Structure and Algorithm and Solved Real world Sceanrio Based Problems using data Structure
+*(Date: 10-Jan-2026)*
+
+- Studied Data Structure and Algorithm
+- Solved Real world Sceanrio Based Problems using data Structure
+
+ - Sceanrio Based Problems Link
+[Code link - BookShelf](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bookshelf)
+
+[Code link - BrowserBuddy](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/browserBuddy)
+
+[Code link -AmbulanceRoute](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/AmbulanceRoute)
+

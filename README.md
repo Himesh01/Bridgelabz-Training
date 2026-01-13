@@ -94,3 +94,20 @@ BridgeLabz-Training/
 
 [Code link -AmbulanceRoute](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/AmbulanceRoute)
 
+## Week 4: Data Structures & Algorithms
+
+## 🗓 Day 1 - Studied Data Structure and Algorithm and Solved Real world Sceanrio Based Problems using data Structure
+*(Date: 12-Jan-2026)*
+
+- Studied Data Structure and Algorithm
+- Solved three real world Scenario based Problems using HashMap and LinkedList
+
+	- Scenario based problem link
+	
+[Code link - CallCenter](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/CallCenter)
+
+[Code link - TrainCompanion](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/TrainCompanion)
+
+[Code link - TextEditor](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/TextEditor)
+
+

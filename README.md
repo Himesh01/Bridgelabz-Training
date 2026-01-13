@@ -148,3 +148,17 @@ Code Link 2: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oo
 
 Code Link 3: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/scenariobasedpractice/src/scenariobasedpractice/SkillForge)
 
+## [Week- 05] - Scenario-Based-problems
+
+### (Day -01) - Object Oriented programming scenario based questions
+**(Date: 12-Jan-2026)**
+
+- Solved Three Scenario based problems
+- pushed solutions to github
+	- Code links of the problems
+[Code link - HomeNest](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/scenariobasedpractice/src/scenariobasedpractice/HomeNest)
+
+[Code link - BudgetWise](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/scenariobasedpractice/src/scenariobasedpractice/BudgetWise)
+
+[Code link - GameBox](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/scenariobasedpractice/src/scenariobasedpractice/GameBox)
+

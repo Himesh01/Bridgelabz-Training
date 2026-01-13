@@ -73,7 +73,7 @@ Code link
 [Day 6: Methods ](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/gcr-codebase/methods)
 
 
-## Week2 : Worked on Strings and Extras Problems
+## Week 02 : Worked on Strings and Extras Problems
 
 ---
 ## 📅 Day 1 – Strings Concepts & Problems  
@@ -152,7 +152,7 @@ Code Link: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops
 [Day 6: leetcode-Arrays ] (https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/leet-code-codebase/arrays/Day-2)
 
 
-## Week3 : Worked on Scenario Based and Leetcode-codebase
+## Week 03 : Worked on Scenario Based and Leetcode-codebase
 
 
 ## 📅 Day 1 - Oops and Solved Three Scenario-based Problems and Leetcode-codebase
@@ -240,7 +240,7 @@ Code Link: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops
 [Day 2 - Stack and Queue](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructure/src/com/stackqueue)
 
 
-## Week4 : Oops and Worked on Scenario Based and Leetcode-codebase And Data Structures
+## Week 04 : Oops and Worked on Scenario Based and Leetcode-codebase And Data Structures
 
 ## 📅 Day 1 - Solved Leecode-codebase Problems and Studeied Sorting Algorithms
 **Date:** 05-Jan-2026
@@ -363,7 +363,7 @@ Code Link 3: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oo
 👉[Day-3: Leetcode - Arrays](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/leet-code-codebase/arrays/Day-6)
 
 
-## Week4 : Data Structures, Object Oriented Programming and leetcode Problems
+## Week 05 : Data Structures, Object Oriented Programming and leetcode Problems
 
 ### (Day -01) - DSA and OOPs based scenario based Problems
 **(Date: 12-Jan-2026)**

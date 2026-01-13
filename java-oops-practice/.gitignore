@@ -2,7 +2,7 @@
 .project
 .classpath
 .settings/
-/.metadata/
+**/.metadata/
 .factorypath
 *.launch
 
@@ -46,3 +46,4 @@ build/
 
 # Environment files
 .env
+**/module-info.java

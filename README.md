@@ -362,3 +362,34 @@ Code Link 3: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oo
 
 👉[Day-3: Leetcode - Arrays](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/leet-code-codebase/arrays/Day-6)
 
+
+## Week4 : Data Structures, Object Oriented Programming and leetcode Problems
+
+### (Day -01) - DSA and OOPs based scenario based Problems
+**(Date: 12-Jan-2026)**
+
+- Solved Three Scenario based problems
+- pushed solutions to github
+	- Code links of the problems
+	
+[Code link - HomeNest](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/scenariobasedpractice/src/scenariobasedpractice/HomeNest)
+
+[Code link - BudgetWise](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/scenariobasedpractice/src/scenariobasedpractice/BudgetWise)
+
+[Code link - GameBox](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/scenariobasedpractice/src/scenariobasedpractice/GameBox)
+
+- Studied Data Structure and Algorithm
+- Solved five real world Scenario based Problems using HashMap and LinkedList
+
+	- Scenario based problem link
+	
+[Code link - CallCenter](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/CallCenter)
+
+[Code link - TrainCompanion](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/TrainCompanion)
+
+[Code link - TextEditor](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/TextEditor)
+
+[Code link - TrafficManager](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/TrafficManager)
+
+[Code link - BookShelf](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bookShelff)
+

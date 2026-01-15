@@ -393,3 +393,9 @@ Code Link 3: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oo
 
 [Code link - BookShelf](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bookShelff)
 
+### Scenario based Problem using java OOPs
+**(Date: 13-Jan-2026)**
+
+- Bird Sanctuary - Java OOP Scenario
+
+[Code link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/scenariobasedpractice/src/scenariobasedpractice/BirdSanctuary)

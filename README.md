@@ -162,3 +162,10 @@ Code Link 3: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oo
 
 [Code link - GameBox](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/scenariobasedpractice/src/scenariobasedpractice/GameBox)
 
+### Scenario based Problems
+**(Date: 13-Jan-2026)**
+
+- Bird Sanctuary – Java OOP Scenario
+	- Code Link
+[Bird Sanctuary – Java OOP Scenario link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/scenariobasedpractice/src/scenariobasedpractice/BirdSanctuary)
+

@@ -415,3 +415,30 @@ Code Link 3: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oo
 - Exam Proctor
 
 [Code link - ExamProctor](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/ExamProctor)
+
+
+### Data Structures based real time Scenarios
+**(Date: 15-Jan-2026)**
+
+- Sorting algorithms and Scenario based on Sorting
+
+	- Code Link
+- HospitalQueue – Patient Sorting by Criticality (Bubble Sort)
+
+[Code link - HospitalQueue](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/Sorting/HospitalQueue)
+
+- SmartShelf – Real-Time Book Arrangement (Insertion Sort)
+
+[Code link - SmartShelf](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/Sorting/SmartShelf)
+
+- ZipZipMart – Daily Sales Summary Report (Merge Sort)
+
+[Code link - ZipZipMart](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/Sorting/ZipZipMart)
+
+- EventManager – Ticket Price Optimizer (Quick Sort)
+
+[Code link - EventManager](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/Sorting/EventManager)
+
+- ExamCell – Student Rank Generator (Merge Sort)
+
+[Code link - ExamCell](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/Sorting/ExamCell)

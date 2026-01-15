@@ -405,13 +405,13 @@ Code Link 3: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oo
 [Code link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/scenariobasedpractice/src/scenariobasedpractice/PayXpress)
 
 - Data Structure scenario based problems
-	- SmartCheckout 
-	
+- Smart Checkout
 [Code link - SmartCheckout](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/SmartCheckout)
 
-	- ParcelTracker
-	
+- Parcel Tracker
+
 [Code Link - ParcelTracker](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/ParcelTracker)
 
-	- ExamProctor
+- Exam Proctor
+
 [Code link - ExamProctor](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/ExamProctor)

@@ -114,4 +114,17 @@ BridgeLabz-Training/
 
 [Code link - BookShelf](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bookShelff)
 
+*(Date: 13-Jan-2026)*
 
+- Data Structure scenario based problems
+- Smart Checkout
+
+[Code link - SmartCheckout](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/SmartCheckout)
+
+- Parcel Tracker
+
+[Code Link - ParcelTracker](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/ParcelTracker)
+
+- Exam Proctor
+
+[Code link - ExamProctor](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/ExamProctor)

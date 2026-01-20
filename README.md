@@ -205,7 +205,7 @@ Code link
 
 [Code Link: leveltwo](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/leveltwo) 
 
-    - Solved Three Scenario-based Problems 
+-	Solved Three Scenario-based Problems 
 	 
   🔗 **Code Link:** <br>
   👉[Day-5: Scenario-based ](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/scenario-based-codebase/Day-2)
@@ -230,12 +230,14 @@ Code link
 
 ## 📅 Oops and Solved Three Scenario-based Problems and Leetcode-codebase
 **Date:** 29-Dec-2025
-	-Solved Five Scenario-based Problems
+
+-	Solved Five Scenario-based Problems
 	
-	🔗 **Code Link:** <br>
-	👉[Day-1: Scenario-based](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/scenario-based-codebase/Day-3)
+🔗 **Code Link:** <br>
+[Day-1: Scenario-based](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/scenario-based-codebase/Day-3)
 	
 -	Object Oriented programming with this, final and static
+
 -	Did some OOPS questions on final, static and this 
 
 	[Code Link: inbuiltfunction](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/inbuiltfunction) 
@@ -243,25 +245,30 @@ Code link
 	
 ## 📅 Oops and Solved Three Scenario-based Problems and Leetcode-codebase
 **Date:** 30-Dec-2025
+
 - Solved Five Scenario-based Problems 
-	🔗 **Code Link:** <br>
+
+🔗 **Code Link:** <br>
 	
 [Scenario-based ](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/scenario-based-codebase/Day-4)
 	
 -	Leetcode Day-2
+
 **Date:** 30-Dec-2025
+
 [Day 2: leetcode-Strings](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/leet-code-codebase/strings/Day-3)
 
 [Day 2: leetcode-Arrays ](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/leet-code-codebase/arrays/Day-3)
 
-	- Object Oriented programming using language features and submission of Object Oriented Design Principles. 
-	- Solved some OOPS questions and learned about class diagrams and class representation 
+-	Object Oriented programming using language features and submission of Object Oriented Design Principles.
+
+-	Solved some OOPS questions and learned about class diagrams and class representation 
 	
-	[Code Link:  Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/relationship)
+[Code Link: relationship](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/relationship)
  
-	- Object Modeling, Class Diagram
+-	Object Modeling, Class Diagram
 	
-	[Code Link: Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/relationship/Diagram)
+[Code Link: Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/relationship/Diagram)
  
 ## 📅 Oops and Solved Five Scenario-based Problems 
 **Date:** 31-Dec-2025
@@ -360,7 +367,7 @@ Code Link1: [Link - eventease](https://github.com/Himesh01/Bridgelabz-Training/t
 
 Code Link1: [Link - petpal](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/scenariobasedpractice/src/scenariobasedpractice/petpal)
 
-	- Solved two Leetcode problems
+-	Solved two Leetcode problems
 	
 [Day-2: Leetcode-Strings](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/leet-code-codebase/strings/Day-5)
 

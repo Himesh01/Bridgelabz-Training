@@ -1,8 +1,8 @@
 # BridgeLabz-Training
 
----
 ## [Week- 02]
-### (Day-05) – Initial Setup & Basics of OOPs 
+
+### Initial Setup & Basics of OOPs 
 **(Date: 26-Dec-2025)**
 
 - Learned and installed Eclipse IDE
@@ -14,7 +14,7 @@ Code Link: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops
 
 ---
 
-### (Day -06) – Object Oriented programming with Constructors
+### Object Oriented programming with Constructors
 **(Date: 27-Dec-2025)**
 
 - Solved some OOPS constructors
@@ -23,9 +23,8 @@ Code Link: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops
 Code Link: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/constructorInstance/levelone) 
 
 ---
-## [Week -03]
 
-### (Day -01) – Object Oriented programming with this, final and static
+### Object Oriented programming with this, final and static
 **(Date: 29-Dec-2025)**
 
 - Did some OOPS questions on final, static and this 
@@ -34,7 +33,7 @@ Code Link:  [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oop
 
 ---
 
-### (Day -02) – Object Oriented programming using language features and submission of Object Oriented Design Principles. 
+### Object Oriented programming using language features and submission of Object Oriented Design Principles. 
 **(Date: 30-Dec-2025)**
 
 - Solved some OOPS questions and learned about class diagrams and class representation 
@@ -46,7 +45,7 @@ Code Link: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops
  
 ---
 
-### (Day -03) – Object Oriented programming using inheritance
+### Object Oriented programming using inheritance
 **(Date: 31-Dec-2025)**
 
 - Did OOPS questions and learned about inheritance
@@ -55,7 +54,7 @@ Code Link: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops
 
 ---
 
-### (Day -04) – Learned Object Oriented programming using Encapsulation, Interface, Abstract Classes, and Polymorphism 
+### Learned Object Oriented programming using Encapsulation, Interface, Abstract Classes, and Polymorphism 
 **(Date: 1-Jan-2026)**
 
 - Did OOPS questions and learned about polymorphism and instance of
@@ -65,7 +64,7 @@ Code Link: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops
 
 ---
 
-### (Day -05) – Object Oriented programming scenario based questions
+### Object Oriented programming scenario based questions
 **(Date: 2-Jan-2026)**
 
 - completeted OOPs based scenario based questions
@@ -74,7 +73,7 @@ Code Link: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops
 
 ---
 
-### (Day -06) – Object Oriented programming scenario based questions
+### Object Oriented programming scenario based questions
 **(Date: 3-Jan-2026)**
 
 - completeted OOPs based scenario based questions
@@ -82,9 +81,8 @@ Code Link: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops
 Code Link: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/scenariobasedpractice/src/scenariobasedpractice) 
 
 ---
-## [Week- 04]
 
-### (Day -01) – Object Oriented programming scenario based questions
+### Object Oriented programming scenario based questions
 **(Date: 5-Jan-2026)**
 
 - Solved 2 scenario-based problems
@@ -95,7 +93,7 @@ Code Link1: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oop
 
 Code Link2: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/scenariobasedpractice/src/scenariobasedpractice/swiftcart)
 
-### (Day -02) – Object Oriented programming scenario based questions
+### Object Oriented programming scenario based questions
 **(Date: 6-Jan-2026)**
 
 - Solved 4 scenario-based problems
@@ -110,7 +108,7 @@ Code Link3: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oop
 
 Code Link4: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/scenariobasedpractice/src/scenariobasedpractice/petpal)
 
-### (Day -03) – Object Oriented programming scenario based questions
+### Object Oriented programming scenario based questions
 **(Date: 7-Jan-2026)**
 
 - Solved 3 scenario-based problems
@@ -124,7 +122,7 @@ Code Link2: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oop
 Code Link3: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/scenariobasedpractice/src/scenariobasedpractice/parkease)
 
 
-### (Day -04) – Object Oriented programming scenario based questions
+### Object Oriented programming scenario based questions
 **(Date: 8-Jan-2026)**
 
 - Solved 2 scenario-based problems
@@ -135,7 +133,7 @@ Code Link 1: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oo
 
 Code Link 2: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/scenariobasedpractice/src/scenariobasedpractice/tourmate)
 
-### (Day -05) - Object Oriented programming scenario based questions
+### Object Oriented programming scenario based questions
 **(Date: 9-Jan-2026)**
 
 - Solved 3 scenario-based problems
@@ -148,9 +146,8 @@ Code Link 2: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oo
 
 Code Link 3: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/scenariobasedpractice/src/scenariobasedpractice/SkillForge)
 
-## [Week- 05] - Scenario-Based-problems
 
-### (Day -01) - Object Oriented programming scenario based questions
+### Object Oriented programming scenario based questions
 **(Date: 12-Jan-2026)**
 
 - Solved Three Scenario based problems
@@ -174,3 +171,20 @@ Code Link 3: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oo
 	- Code Link
 
 [Code Link - PayXpress](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/scenariobasedpractice/src/scenariobasedpractice/PayXpress)
+
+### Scenario based Problems
+**(Date: 17-Jan-2026)**
+
+-	Solved Two Scenario-based Problems
+	- Code Link
+[Code link - Bag N Ball](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/scenariobasedpractice/src/scenariobasedpractice/BagnBallOrganizer)
+
+[Code link - Geo Measure](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/scenariobasedpractice/src/scenariobasedpractice/GeoMeasure)
+
+### Scenario based Problems
+**(Date: 19 Jan 2026)**
+-	Scenario based(OOP's) practice
+    -	Solved One Scenario-based Problems
+
+[Code link -Address Book](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/scenariobasedpractice/src/scenariobasedpractice/AddressBook)
+

@@ -2,7 +2,7 @@
 
 ## Week 3: Data Structures & Algorithms
 
-## 🗓 Day 1 - GitHub Setup & DSA Concept(Linked List)
+## 🗓 GitHub Setup & DSA Concept(Linked List)
 *(Date: 02-Jan-2026)*
 
 - Set up GitHub.
@@ -20,7 +20,7 @@ BridgeLabz-Training/
 🔗 *Code Link:* 
 [Day 1 – Linked List](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructure/src/com/linkelist)
 
-## 🗓 Day 2 – Stack , Queue, HashMap and Hashing Function
+## 🗓 Stack , Queue, HashMap and Hashing Function
 *(Date: 03-Jan-2026)*
 
 - Studied Stack , Queue, HashMap and Hashing Function
@@ -32,9 +32,8 @@ BridgeLabz-Training/
 
 [Day 2 - Stack and Queue](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructure/src/com/stackqueue)
 
-## Week 4: Data Structures & Algorithms
 
-## 🗓 Day 1 – Sorting Algorithms
+## 🗓 Sorting Algorithms
 *(Date: 05-Jan-2026)*
 
 - [Studeid Sorting Algorithms]: Bubble Sort,Insertion Sort, Merge Sort, and Quick Sort
@@ -74,19 +73,19 @@ BridgeLabz-Training/
 - Studied Data Structure and Algorithm
 - Linked List
 
-## 🗓 Day 5 - Studied Data Structure and Algorithm
+## 🗓 Studied Data Structure and Algorithm
 *(Date: 09-Jan-2026)*
 
 - Studied Data Structure and Algorithm
 - ArrayList
 
-## 🗓 Day 6 - Studied Data Structure and Algorithm and Solved Real world Sceanrio Based Problems using data Structure
+## 🗓 Studied Data Structure and Algorithm and Solved Real world Sceanrio Based Problems using data Structure
 *(Date: 10-Jan-2026)*
 
 - Studied Data Structure and Algorithm
 - Solved Real world Sceanrio Based Problems using data Structure
 
-	- Sceanrio Based Problems Link
+	🔗 *Code Link:*
  
 [Code link - BookShelf](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bookshelf)
 
@@ -94,9 +93,9 @@ BridgeLabz-Training/
 
 [Code link -AmbulanceRoute](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/AmbulanceRoute)
 
-## Week 5: Data Structures & Algorithms
 
-## 🗓 Day 1 - Studied Data Structure and Algorithm and Solved Real world Sceanrio Based Problems using data Structure
+
+## 🗓 Studied Data Structure and Algorithm and Solved Real world Sceanrio Based Problems using data Structure
 *(Date: 12-Jan-2026)*
 
 - Studied Data Structure and Algorithm
@@ -114,7 +113,7 @@ BridgeLabz-Training/
 
 [Code link - BookShelf](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/bookShelff)
 
-## Data Structure Scenario based Problems
+## 🗓 Data Structure Scenario based Problems
 *(Date: 13-Jan-2026)*
 
 - Data Structure scenario based problems
@@ -130,7 +129,7 @@ BridgeLabz-Training/
 
 [Code link - ExamProctor](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/ExamProctor)
 
-## Data Structure Scenario based problems 
+## 🗓 Data Structure Scenario based problems 
 *(Date: 15-Jan-2026)*
 
 - Sorting algorithms and Scenario based on Sorting
@@ -155,4 +154,54 @@ BridgeLabz-Training/
 - ExamCell – Student Rank Generator (Merge Sort)
 
 [Code link - ExamCell](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/Sorting/ExamCell)
+
+## 🗓 Data Structure Algorithms(Scenario-Based)
+*(Date: 16-Jan-2026)*
+
+-	Solved Three Scenario-based Problems
+	🔗 *Code Link:*
+
+[Code link - Robo WareHouse](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/Sorting/RoboWarehouse)
+
+[Code link - Cinema House](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/Sorting/CinemaHouse)
+
+[Code link - Crop Monitor](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/Sorting/CropMonitor)
+
+## 🗓 Data Structure Algorithms(Scenario-Based)
+*(Date: 17-Jan-2026)*
+
+-	Solved Three Scenario-based Problems
+	🔗 *Code Link:*
+	
+[Code link - Art expo](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/artexpo)
+
+[Code link - Fleet Manager](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/FleetManager)
+
+[Code link - Ice Cream Rush](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/icecreamrush)
+
+[Code link - Smart library](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/smartlibrary)
+
+## 🗓 Data Structure Algorithms(Scenario-Based)
+*(Date: 19-Jan-2026)*
+
+-	Solved Three Scenario-based Problems
+	🔗 *Code Link:*
+	
+[Code link - Edu Result](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/EduResult)
+
+[Code link - Flash Dealz](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/FlashDealz)
+
+[Code link - Fitness Tracker](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/FitnessTracker)
+
+## 🗓 Data Structure Algorithms(Scenario-Based)
+*(Date: 20-Jan-2026)*
+
+-	Solved Three Scenario-based Problems
+	🔗 *Code Link:*
+	
+[Code link - Movie Time](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/MovieTime)
+
+[Code link - Food Fest](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/FoodFest)
+
+[Code link - Game Zone](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/GamerZone)
 

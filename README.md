@@ -1,33 +1,99 @@
-"# Bridgelabz-Training" 
+# BridgeLabz-Training
+
+This repository documents my **day-wise learning journey at BridgeLabz-Training**, covering:
+- Core Java fundamentals
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms (DSA)
+- Real-world scenario-based problem solving
+  
+---
+
+## 📂 Project Structure
+
+```text
+BridgeLabz-Training/
+│
+├── 📁 core-java-practice/
+│   ├── 📁 gcr-codebase/
+│   │   ├── 📁 programming-prerequisites/
+│   │   ├── 📁 programming-elements/
+│   │   ├── 📁 control-flows/
+│   │   ├── 📁 arrays/
+│   │   ├── 📁 methods/
+│   │   ├── 📁 strings/
+│   │   └── 📁 extra/
+│   ├── 📁 leet-code-codebase/
+│   └── 📁 scenario-based-codebase/
+│
+├── 📁 java-oops-practice/
+│   ├── 📁 gcr-codebase/
+│   │   └── 📁 JavaOopsConcepts/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 classandobject/
+│   │               ├── 📁 constructor/
+│   │               ├── 📁 finalandstatic/
+│   │               ├── 📁 objectmodeling/
+│   │               ├── 📁 inheritance/
+│   │               └── 📁 encapsulation/
+│   ├── 📁 leet-code-codebase/
+│   └── 📁 scenario-based-codebase/
+│
+├── 📁 dsa-practice/
+│   ├── 📁 gcr-codebase/
+│   │   └── 📁 JavaDsaPractice/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 linkedlist/
+│   │               ├── 📁 stacksandqueues/
+│   │               ├── 📁 hashing/
+|   |               ├── 📁 StringBuilder
+|   |               ├── 📁 StringBuffer
+|   |               ├── 📁 TimeAndSpaceComplexity
+|   |               ├── 📁 BufferedReader
+|   |               ├── 📁 searching
+│   │               └── 📁 sorting/
+│   ├── 📁 leet-code-codebase/
+│   └── 📁 scenario-based-codebase/
+|
+├── 📁 java-collections-practice/
+│   ├── 📁 gcr-codebase/
+│   │   └── 📁 JavaCollections/
+│   │       └── 📁 src/
+│   │           └── 📁 com/
+│   │               ├── 📁 generics/
+│   └── 📁 scenario-based-codebase/
+│
+└── README.md
+```
 
 ## Week 1: Git, GitHub & Java Programming Fundamentals
 
 ---
 
-## 📅 Day 1 – Git and GitHub Setup  
+## 📅 Git and GitHub Setup  
 **Date:** 15-Dec-2025  
 
 - Installed and configured Git  
 - Set up GitHub repository  
 - Created core-java-practice branch
 
-### 📂 Repository Structure
 
 - Learned basic Git commands.  
 - Sucessfully pushed files to the repository.  
 
 
-### 🗓 Day 2 – Git Practice & Basic Java Programs  
+### 🗓 Git Practice & Basic Java Programs  
 **Date:** 16-Dec-2025
 
 - Practised Git workflow to understand commits and version control.  
 - Solved basic programs to understand syntax and structure.  
 - Practised adding, commiting and pushing java files to Github.  
 Code link  
-[Day 2: Basic java programs](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/gcr-codebase/Program%20Prerequisite)
+[Basic java programs](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/gcr-codebase/Program%20Prerequisite)
 
 
-### 🗓 Day 3 – Programming Elements in Java  
+### 🗓 Programming Elements in Java  
 **Date:** 17-Dec-2025
 
 - Studied java programming elements  
@@ -37,10 +103,10 @@ Code link
 - Solved practice problem based on programming elements.  
 - Commited and pushed solutions to repository.  
 Code link  
-[Day 3: Programming Elements](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
+[Programming Elements](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
 
 
-### 🗓 Day 4 – Control Flow & Logical Constructs  
+### 🗓 Control Flow & Logical Constructs  
 **Date:** 18-Dec-2025
 
 - Studied java control flow  
@@ -50,33 +116,32 @@ Code link
 - Solved practice problem based on control flow  
 -  Commited and pushed solutions to repository.  
 Code link  
-[Day 4: Control flow](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
+[Control flow](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/gcr-codebase/control-flow)
 
 
-### 🗓 Day 5 – Arrays & Basic Problem Solving  
+### 🗓 Arrays & Basic Problem Solving  
 **Date:** 19-Dec-2025
 
 - Studied java Arrays  
 - Solved practice problem based on array.  
 - Commited and pushed solutions to repository.  
 Code link  
-[Day 5: Arrays in java](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/gcr-codebase/arrays)
+[Code link - Arrays in java](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
 
-### 🗓 Day 6 –Concepts & problems on Methods  
+### 🗓 Concepts & problems on Methods  
 **Date: 20-Dec-2025 
 
 - Studied java methods    
 - Solved practice problem based on methods.    
 - Commited and pushed solutions to repository.  
 Code link  
-[Day 6: Methods ](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/gcr-codebase/methods)
+[Code Link - Methods ](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/gcr-codebase/methods)
 
 
-## Week 02 : Worked on Strings and Extras Problems
+## Worked on Strings and Extras Problems
 
----
-## 📅 Day 1 – Strings Concepts & Problems  
+## 📅 Strings Concepts & Problems  
 **Date:** 22-Dec-2025 
 
 - Studied java strings.      
@@ -86,7 +151,7 @@ Code link
 [Day 1: Strings ](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/gcr-codebase/strings)
 
 
-## 📅 Day 2 – Solve Extras Problems 
+## 📅 Solve Extras Problems 
 **Date:** 23-Dec-2025 
 
 - Studied how to get dates in different formats in java.
@@ -98,7 +163,7 @@ Code link
 [Day 2: Extra questions ](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/gcr-codebase/Extras)
 
 
-## 📅 Day 3 - Scenario Based
+## 📅 Scenario Based
 **Date:** 24-Dec-2025
 
 - Learned the following concepts:
@@ -114,7 +179,7 @@ Code link
 [Day 3: Scenario-based ](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/scenario-based-codebase)
 
 
-## 📅 Day 4(Christmas Holiday)
+## 📅 (Christmas Holiday)
   --- Leetcode Practice
 **Date:** 25-Dec-2025
 Code Link
@@ -122,7 +187,9 @@ Code Link
 [Day 4: leetcode-Strings ](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/leet-code-codebase/strings/Day-1)
 
 
-## 📅 Day 5 - Object Oriented Programming and Scenario Based
+## Week-02 - Object Oriented programming
+
+## 📅 Object Oriented Programming and Scenario Based
 **Date:** 26-Dec-2025
 	- Initial Setup & Basics of OOPs 
 	- Learned and installed Eclipse IDE
@@ -138,7 +205,7 @@ Code Link: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops
   👉[Day-5: Scenario-based ] (https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/scenario-based-codebase/Day-2)
   
   
-## 📅 Day 6 - Object Oriented programming with Constructors and Leetcode-codebase 
+## 📅 Object Oriented programming with Constructors and Leetcode-codebase 
 	
 **Date:** 27-Dec-2025
 	- Object Oriented programming with Constructors
@@ -152,10 +219,8 @@ Code Link: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops
 [Day 6: leetcode-Arrays ] (https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/leet-code-codebase/arrays/Day-2)
 
 
-## Week 03 : Worked on Scenario Based and Leetcode-codebase
 
-
-## 📅 Day 1 - Oops and Solved Three Scenario-based Problems and Leetcode-codebase
+## 📅 Oops and Solved Three Scenario-based Problems and Leetcode-codebase
 **Date:** 29-Dec-2025
 	-Solved Five Scenario-based Problems 
 	🔗 **Code Link:** <br>
@@ -167,7 +232,7 @@ Code Link: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops
 	[Code Link:  Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/inbuiltfunction) 
 
 	
-## 📅 Day 2 - Oops and Solved Three Scenario-based Problems and Leetcode-codebase
+## 📅 Oops and Solved Three Scenario-based Problems and Leetcode-codebase
 **Date:** 30-Dec-2025
 - Solved Five Scenario-based Problems 
 	>🔗 **Code Link:** <br>
@@ -187,7 +252,7 @@ Code Link: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops
 	
 	[Code Link: Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/relationship/Diagram)
  
-## 📅 Day 3 - Oops and Solved Five Scenario-based Problems 
+## 📅 Oops and Solved Five Scenario-based Problems 
 **Date:** 31-Dec-2025
 - Solved Five Sceanrio-based Problems
 	
@@ -200,7 +265,7 @@ Code Link: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops
 	
 	[Code Link: Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/inheritance) 
 
-## 📅 Day 4 – Learned Object Oriented programming using Encapsulation, Interface, Abstract Classes, and Polymorphism 
+## 📅 Learned Object Oriented programming using Encapsulation, Interface, Abstract Classes, and Polymorphism 
 **(Date: 01-Jan-2026)**
 
 - Did OOPS questions and learned about polymorphism and instance of
@@ -208,7 +273,9 @@ Code Link: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops
 
 Code Link: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcepts/src/com/bridgelabz/oops/encapsulation) 
 
-## 📅 Day 5 – Object Oriented programming scenario based questions and Started Data Structures & Algorithms
+## 📊 Week 3 – Data Structures & Algorithms
+
+## 📅 Object Oriented programming scenario based questions and Started Data Structures & Algorithms
 **(Date: 2-Jan-2026)**
 
 - completeted OOPs based scenario based questions
@@ -223,7 +290,7 @@ Code Link: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops
 [Day 1 – Linked List](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructure/src/com/linkelist)
 
 
-## 📅 Day 6 – Object Oriented programming scenario based questions and Studied Stack , Queue, HashMap and Hashing Function in dsa
+## 📅 Object Oriented programming scenario based questions and Studied Stack , Queue, HashMap and Hashing Function in dsa
 **(Date: 3-Jan-2026)**
 
 - completeted OOPs based scenario based questions
@@ -240,9 +307,7 @@ Code Link: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops
 [Day 2 - Stack and Queue](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructure/src/com/stackqueue)
 
 
-## Week 04 : Oops and Worked on Scenario Based and Leetcode-codebase And Data Structures
-
-## 📅 Day 1 - Solved Leecode-codebase Problems and Studeied Sorting Algorithms
+## 📅 Solved Leecode-codebase Problems and Studeied Sorting Algorithms
 **Date:** 05-Jan-2026
 - Solved Five Leetcode problems
 	
@@ -267,7 +332,7 @@ Code Link2: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oop
 🔗 *Code Link:*  
 [Day 1 - Sorting](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructure/src/com/sorting)
 
-## 📅 Day 2 - Studied about Searching Algorithms in dsa
+## 📅 Studied about Searching Algorithms in dsa
 **(Date: 6-Jan-2026)**
 - Solved Leetcode-codebase Problems
 - Object Oriented programming scenario based questions
@@ -289,7 +354,7 @@ Code Link1: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oop
 	👉[Day-2: Leetcode-Strings](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/leet-code-codebase/strings/Day-5)
 
 
-## 📅 Day 3 - Studied about Searching algorithms in dsa and Solved three oops Scenario-based Problems
+## 📅 Studied about Searching algorithms in dsa and Solved three oops Scenario-based Problems
 **(Date: 7-Jan-2026)**
 
 - Solved Leetcode-codebase Problems
@@ -319,7 +384,7 @@ Code Link1: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oop
 
 [Code Link3: Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/scenariobasedpractice/src/scenariobasedpractice/parkease)
 	
-## 📅 Day 4 - Studied dsa and Solved two oops Scenario-based Problems
+## 📅 Studied dsa and Solved two oops Scenario-based Problems
 **(Date: 8-Jan-2026)**
 
 - Solved two leetcode string Problems
@@ -331,7 +396,7 @@ Code Link1: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oop
 
 [Leetcode Strings code link](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/leet-code-codebase/strings/Day-6)
 
-### (Day -05) - Object Oriented programming scenario based questions
+### Object Oriented programming scenario based questions
 **(Date: 9-Jan-2026)**
 
 - Solved 3 scenario-based problems
@@ -344,7 +409,7 @@ Code Link 2: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oo
 
 Code Link 3: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/scenariobasedpractice/src/scenariobasedpractice/SkillForge)
 
-### (Day -06) - Data structure and Algorithms based scenario based Problems
+### Data structure and Algorithms based scenario based Problems
 **(Date: 10-Jan-2026)**
 
 - Studeid data structures and Algorithms
@@ -363,9 +428,7 @@ Code Link 3: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oo
 👉[Day-3: Leetcode - Arrays](https://github.com/Himesh01/Bridgelabz-Training/tree/core-java-practice/leet-code-codebase/arrays/Day-6)
 
 
-## Week 05 : Data Structures, Object Oriented Programming and leetcode Problems
-
-### (Day -01) - DSA and OOPs based scenario based Problems
+### DSA and OOPs based scenario based Problems
 **(Date: 12-Jan-2026)**
 
 - Solved Three Scenario based problems
@@ -416,7 +479,26 @@ Code Link 3: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oo
 
 [Code link - ExamProctor](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/ExamProctor)
 
+## 🧠 Week 4 – Java Collections, Streams - Progress Log
+**(Date: 15-Jan-2026)**
+### Sorting Algorithms & Java Generics Practice
 
+####  Created a new branch `java-collections-practice`
+- Learned and applied Java Generics best practices:
+  - Generic classes, methods, and constructors
+  - Bounded type parameters and wildcards
+  - Type safety and reusability
+  
+#### 🔹 Implemented real-world generic systems:
+  - Smart Warehouse Management
+  - Online Marketplace
+  - Course Management System
+  - Meal Plan Generator
+  - AI-Driven Resume Screening System
+
+🔗 **Code Links:**  
+👉 [Day 1 - Java Generics Practice](https://github.com/Himesh01/Bridgelabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/collectionsquestion/src/genrics)  
+  
 ### Data Structures based real time Scenarios
 **(Date: 15-Jan-2026)**
 
@@ -442,3 +524,83 @@ Code Link 3: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oo
 - ExamCell – Student Rank Generator (Merge Sort)
 
 [Code link - ExamCell](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/Sorting/ExamCell)
+
+
+### 📅 Java Collections Framework  
+**(Date: 16-Jan-2026)** 
+**Branch:** `java-collections-practice`
+- Built strong fundamentals of **Java Collections**
+- Solved extensive **hands-on problems** across List, Set, Queue, and Map
+
+🔗 **Code Links:**   
+👉 [Day 2 - Java Collections Framework](https://github.com/Himesh01/Bridgelabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/collectionsquestion/src/collectionsquestion)
+
+#### Data Structure Algorithms(Scenario-Based)- Sorting Algorithms
+*(Date: 16-Jan-2026)*
+
+-	Solved Three Scenario-based Problems
+	🔗 *Code Link:*
+
+[Code link - Robo WareHouse](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/Sorting/RoboWarehouse)
+
+[Code link - Cinema House](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/Sorting/CinemaHouse)
+
+[Code link - Crop Monitor](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/Sorting/CropMonitor)
+
+
+*(Date: 17-Jan-2026)*
+### 📅 Java Collections Framework 
+
+### OOPS- Scenario based Problems
+
+-	Solved Two Scenario-based Problems
+	- Code Link
+[Code link - Bag N Ball](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/scenariobasedpractice/src/scenariobasedpractice/BagnBallOrganizer)
+
+[Code link - Geo Measure](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/scenariobasedpractice/src/scenariobasedpractice/GeoMeasure)
+
+## 🗓 Data Structure Algorithms(Scenario-Based)- Sorting Algorithms
+
+-	Solved Three Scenario-based Problems
+	🔗 *Code Link:*
+	
+[Code link - Art expo](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/artexpo)
+
+[Code link - Fleet Manager](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/FleetManager)
+
+[Code link - Ice Cream Rush](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/icecreamrush)
+
+[Code link - Smart library](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/smartlibrary)
+
+
+*(Date: 19-Jan-2026)*
+## 🗓 Data Structure Algorithms(Scenario-Based)- Sorting Algorithms
+
+-	Solved Three Scenario-based Problems
+	🔗 *Code Link:*
+	
+[Code link - Edu Result](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/EduResult)
+
+[Code link - Flash Dealz](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/FlashDealz)
+
+[Code link - Fitness Tracker](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/FitnessTracker)
+
+### Scenario based Problems
+**(Date: 19 Jan 2026)**
+-	Scenario based(OOP's) practice
+    -	Solved One Scenario-based Problems
+
+[Code link -Address Book](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oops-practice/java-oops-practice/Scenario-based-codebase/scenariobasedpractice/src/scenariobasedpractice/AddressBook)
+
+
+*(Date: 20-Jan-2026)*
+## 🗓 Data Structure Algorithms(Scenario-Based)- Sorting Algorithms
+
+-	Solved Three Scenario-based Problems
+	🔗 *Code Link:*
+	
+[Code link - Movie Time](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/MovieTime)
+
+[Code link - Food Fest](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/FoodFest)
+
+[Code link - Game Zone](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/GamerZone)

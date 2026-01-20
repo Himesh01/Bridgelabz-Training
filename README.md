@@ -43,7 +43,7 @@ BridgeLabz-Training/
 🔗 *Code Link:*  
 [Day 1 - Sorting](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructure/src/com/sorting)
 
-## 🗓 Day 2 – Linear Search and Binary Search, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader
+## 🗓 Linear Search and Binary Search, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader
 *(Date: 06-Jan-2026)*
 
 -[Studied Linear Search and Binary Search, StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader]
@@ -58,7 +58,7 @@ BridgeLabz-Training/
 
 [Code link - File reader](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructure/src/com/filereader)
 
-## 🗓 Day 3 – Algorithm's Runtime Analysis & Big-O Notation
+## 🗓 Algorithm's Runtime Analysis & Big-O Notation
 *(Date: 07-Jan-2026)*
 
 - Worked on "dsa-practice" and "java-oops-practice" branch
@@ -67,7 +67,7 @@ BridgeLabz-Training/
 🔗 *Code Link:*
 [Code link - Time Complexity](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/gcr-code-base/DataStructure/src/com/timeComplexity)
 
-## 🗓 Day 4 - Studied Data Structure and Algorithm
+## 🗓 Studied Data Structure and Algorithm
 *(Date: 08-Jan-2026)*
 
 - Studied Data Structure and Algorithm
@@ -129,7 +129,7 @@ BridgeLabz-Training/
 
 [Code link - ExamProctor](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/ExamProctor)
 
-## 🗓 Data Structure Scenario based problems 
+## 🗓 Data Structure Scenario based problems - Sorting Algorithms
 *(Date: 15-Jan-2026)*
 
 - Sorting algorithms and Scenario based on Sorting
@@ -155,7 +155,7 @@ BridgeLabz-Training/
 
 [Code link - ExamCell](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/Sorting/ExamCell)
 
-## 🗓 Data Structure Algorithms(Scenario-Based)
+## 🗓 Data Structure Algorithms(Scenario-Based)- Sorting Algorithms
 *(Date: 16-Jan-2026)*
 
 -	Solved Three Scenario-based Problems
@@ -167,7 +167,7 @@ BridgeLabz-Training/
 
 [Code link - Crop Monitor](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/Sorting/CropMonitor)
 
-## 🗓 Data Structure Algorithms(Scenario-Based)
+## 🗓 Data Structure Algorithms(Scenario-Based)- Sorting Algorithms
 *(Date: 17-Jan-2026)*
 
 -	Solved Three Scenario-based Problems
@@ -181,7 +181,7 @@ BridgeLabz-Training/
 
 [Code link - Smart library](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/smartlibrary)
 
-## 🗓 Data Structure Algorithms(Scenario-Based)
+## 🗓 Data Structure Algorithms(Scenario-Based)- Sorting Algorithms
 *(Date: 19-Jan-2026)*
 
 -	Solved Three Scenario-based Problems
@@ -193,7 +193,7 @@ BridgeLabz-Training/
 
 [Code link - Fitness Tracker](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/FitnessTracker)
 
-## 🗓 Data Structure Algorithms(Scenario-Based)
+## 🗓 Data Structure Algorithms(Scenario-Based)- Sorting Algorithms
 *(Date: 20-Jan-2026)*
 
 -	Solved Three Scenario-based Problems

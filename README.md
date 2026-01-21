@@ -205,3 +205,14 @@ BridgeLabz-Training/
 
 [Code link - Game Zone](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/GamerZone)
 
+
+## 🗓 Data Structure Algorithms(Scenario-Based)- Sorting Algorithms
+*(Date: 21-Jan-2026)*
+
+-	Solved two scenario-based problems
+	🔗 *Code Link:*
+
+[Code link - TailorShop](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/TailorShop)
+
+[Code link - MedWareHouse](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/MedWarehouse)
+

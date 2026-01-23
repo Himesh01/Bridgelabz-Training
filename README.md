@@ -216,3 +216,20 @@ BridgeLabz-Training/
 
 [Code link - MedWareHouse](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/MedWarehouse)
 
+## 🗓 Data Structure Algorithms(Scenario-Based)- Tree and Graph
+*(Date: 22-Jan-2026)*
+
+-	Solved Five Scenario based problems
+	🔗 *Code Link:*
+[Code link - Gaming app](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/TreeGraph/GamingApp)
+
+[Code link - Hospital queue](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/TreeGraph/HospitalQueueManagement)
+
+[Code link - Music app](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/TreeGraph/MusicApp)
+
+[Code link - Online ticket booking System](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/TreeGraph/OnlineTicketBookingSystem)
+
+[Code link - Product Inventory](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/TreeGraph/ProductInventory)
+
+[Code link - University record system](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/TreeGraph/UniversityRecordSystem)
+

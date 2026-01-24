@@ -1,0 +1,24 @@
+# Sample Text Data for large_input_file.dat
+
+USER_ID: 10293
+NAME: Himesh kurmi
+COURSE: Java Full Stack Development
+ENROLL_DATE: 2026-01-15
+STATUS: Active
+
+USER_ID: 10294
+NAME: Nageshwar Prashad patel
+COURSE: Python + GenAI Integration
+ENROLL_DATE: 2026-01-16
+STATUS: Pending
+
+USER_ID: 10295
+NAME: Lucky Pal
+COURSE: Spring Boot & AI
+ENROLL_DATE: 2026-01-17
+STATUS: Completed
+
+# Notes Section
+- This dataset is for testing file handling.
+- Includes mixed statuses (Active, Pending, Completed).
+- Dates are in YYYY-MM-DD format.

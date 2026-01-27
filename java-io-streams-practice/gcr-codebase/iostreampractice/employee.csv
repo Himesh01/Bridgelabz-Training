@@ -1,3 +1,5 @@
-Name,Marks
-"Himesh	",98
-nag,56
+Name,department,Marks,email,phone
+Himesh,ds,98,himesh@gmail.com,4561237890
+nag,cse,56,nag@gmail.com,7896541330
+Rajeev,aiml,51,rajeev@gmail.com,1478529630
+Lucky,it,32,lucky@gmail.com,2589631478

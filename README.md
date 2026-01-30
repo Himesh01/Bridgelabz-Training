@@ -624,3 +624,16 @@ Code Link 3: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oo
 [Code link - Food Fest](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/FoodFest)
 
 [Code link - Game Zone](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/com/GamerZone)
+
+
+### 🗓 Date: 21-Jan-2026 (Java Collections and Data Structure(Scenario-Based) problems)
+
+- Solved Two sorting scenario-based problem
+
+- Solved Three Binary search tree scenario based problems
+
+- Worked on regex and junit practice
+
+- Code Link: [dsa-practice(scenario-code-base)](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems)
+- Code Link: [java-collections-practice(junit)](https://github.com/Himesh01/Bridgelabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/collectionsquestion/src/jUnit)
+- Code Link: [java-collections-practice(regex)](https://github.com/Himesh01/Bridgelabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/collectionsquestion/src/regex)

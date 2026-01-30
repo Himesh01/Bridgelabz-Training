@@ -1,0 +1,19 @@
+[ {
+  "id" : 1,
+  "name" : "Himesh",
+  "total" : 253,
+  "average" : 84.33333333333333,
+  "grade" : "B"
+}, {
+  "id" : 2,
+  "name" : "Raj",
+  "total" : 205,
+  "average" : 68.33333333333333,
+  "grade" : "C"
+}, {
+  "id" : 3,
+  "name" : "Dev",
+  "total" : 275,
+  "average" : 91.66666666666667,
+  "grade" : "A"
+} ]

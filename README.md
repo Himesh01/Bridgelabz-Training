@@ -638,3 +638,14 @@ Code Link 3: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oo
 - Code Link: [java-collections-practice(junit)](https://github.com/Himesh01/Bridgelabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/collectionsquestion/src/jUnit)
 - Code Link: [java-collections-practice(regex)](https://github.com/Himesh01/Bridgelabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/collectionsquestion/src/regex)
 - Code Link: [java-collections-practice(Exception Handling)](https://github.com/Himesh01/Bridgelabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/collectionsquestion/src/exception)
+
+### Date: 22-Jan-2026 (Java Collections and Data Structure(Scenario-Based) problems)
+- Solved AVL Tree scenario-based problems
+
+- Worked on annotations
+
+- Worked on reflections
+
+- Code Link: [java-collections-practice(annotations)](https://github.com/Himesh01/Bridgelabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/collectionsquestion/src/annotations)
+- Code Link: [dsa-practice(scenario-code-base)](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/)
+- Code Link: [java-collections-practice(reflections)](https://github.com/Himesh01/Bridgelabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/collectionsquestion/src/reflection)

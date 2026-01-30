@@ -649,3 +649,24 @@ Code Link 3: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oo
 - Code Link: [java-collections-practice(annotations)](https://github.com/Himesh01/Bridgelabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/collectionsquestion/src/annotations)
 - Code Link: [dsa-practice(scenario-code-base)](https://github.com/Himesh01/Bridgelabz-Training/tree/dsa-practice/dsa-practice/scenario-based-codebase/ScenarioBasedProblems/src/)
 - Code Link: [java-collections-practice(reflections)](https://github.com/Himesh01/Bridgelabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/collectionsquestion/src/reflection)
+
+
+## Week 5 : Java I/O Streams
+---
+### Date: 23-Jan-2026 (CSV file Handling in Java)
+
+- Learned and solved CSV file data handling
+
+- Solved Five collecions scenario-based problems
+
+- Code Link: [java-collections-practice(scenario-code-base)](https://github.com/Himesh01/Bridgelabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/src)
+- Code Link: [java-iostreams-practice(csv)](https://github.com/Himesh01/Bridgelabz-Training/tree/java-io-streams-practice/java-io-streams-practice/gcr-codebase/iostreampractice/src/iostreampractice/csv)
+---
+### Date: 24-Jan-2026 (Json file handling)
+
+- Learned and solved JSON file handling
+
+- Solved collections scenario-based problems
+
+- Code Link: [java-collections-practice(scenario-code-base)](https://github.com/Himesh01/Bridgelabz-Training/tree/java-collections-practice/java-collections-practice/scenario-based-codebase/src)
+- Code Link: [java-iostreams-practice(json)](https://github.com/Himesh01/Bridgelabz-Training/tree/java-io-streams-practice/java-io-streams-practice/gcr-codebase/iostreampractice/src/iostreampractice/JSON)

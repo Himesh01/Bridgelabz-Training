@@ -99,3 +99,13 @@ Introduction to Design Principles
 
 👉 [Code link - scenario-based-codebase](https://github.com/Himesh01/Bridgelabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-practice/scenariobasedpractice/src/functionalInterface)
 
+### 🗓 – Workshop on Java 8 Features
+**(Date: 04-Feb-2026)**
+
+- Workshop - Smart City Transport & Service Management System
+- Solved One problem
+
+- 🔗 **Code Link:**
+
+👉 [Code link - Smart City Transport](https://github.com/Himesh01/Bridgelabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/java8-programming-practice/src/main/java/java8Workshop)
+

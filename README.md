@@ -672,8 +672,6 @@ Code Link 3: [Link](https://github.com/Himesh01/Bridgelabz-Training/tree/java-oo
 - Code Link: [java-iostreams-practice(json)](https://github.com/Himesh01/Bridgelabz-Training/tree/java-io-streams-practice/java-io-streams-practice/gcr-codebase/iostreampractice/src/iostreampractice/JSON)
 
 
-# 💻 BridgeLabz-Training
-
 ## 🗓 Week 6 : Java 8 Features 
 
 ### 🗓  – Lambda Expressions, Method References & Interfaces 
@@ -738,29 +736,6 @@ BridgeLabz-Training/
 
 👉 [Code link - scenario-based-codebase](https://github.com/Himesh01/Bridgelabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-practice/scenariobasedpractice/src/studentsProblem)
 
-### 🗓 – Studies Design Principles
-**(Date: 31-Jan-2026)**
-
-Introduction to Design Principles
-- Single Responsibility Principle (SRP)
-- Open/Closed Principle (OCP)
-- Liskov Substitution Principle (LSP)
-- Interface Segregation Principle (ISP)
-- Dependency Inversion Principle (DIP)
-- Don't Repeat Yourself (DRY)
-- Keep It Simple, Stupid (KISS)
-- You Aren't Gonna Need It (YAGNI)
-
-### 🗓 – Studies Design Pattern
-**(Date: 01-Feb-2026)**
-
-- Introduction to GoF Design Pattern
-- Categories of Patterns (GoF classification)
-- Singleton Pattern
-- Factory Pattern
-- Observer Pattern
-- Builder Pattern
-- UML Designing
 
 ### 🗓 – Real-Time Scenario-Based Questions on Functional Interfaces (Java 8)
 **(Date: 02-Feb-2026)**
@@ -770,3 +745,26 @@ Introduction to Design Principles
 - 🔗 **Code Link:**
 
 👉 [Code link - scenario-based-codebase](https://github.com/Himesh01/Bridgelabz-Training/tree/java8-programming-practice/java8-programming-practice/scenario-based-practice/scenariobasedpractice/src/functionalInterface)
+
+
+## 🗓 Week 7 : Java Design Principles & Design Patterns 
+
+### 🗓 Design Principles & Design Patterns  
+**(Date: 31-Jan-2026)**
+
+- Studied Design Principles & Design Patterns 
+
+- 🔗 **Code Link:**  
+👉 [Design Principles & Patterns](https://github.com/Himesh01/Bridgelabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/javadesignpatternpractice/src/javadesignpatternpractice)
+
+### 🗓 Multithreading in Java  
+**(Date: 02-Feb-2026)**
+- Studied process vs thread concepts and multithreading benefits and drawbacks.
+
+- 🔗 **Code Link:**  
+👉 [Multithreading](https://github.com/Himesh01/Bridgelabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/javadesignpatternpractice/src/multithreading)
+
+- Solved scenario based problem of Multithreading
+
+- 🔗 **Code Link:**  
+👉 [SBQuestion](https://github.com/Himesh01/Bridgelabz-Training/tree/java-design-pattern-practice/java-design-pattern-practice/gcr-codebase/javadesignpatternpractice/src/multithreading/ScenarioBasedProblem)

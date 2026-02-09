@@ -1,6 +1,31 @@
+-- ============================================================
 -- Problem - Advanced Features (Library Management System)
 -- Table: book, student, borrow_record
--- --------------------------------------------------------
+-- ============================================================
+
+
+-- mysql>
+CREATE TABLE book (
+book_id INT PRIMARY KEY AUTO_INCREMENT,
+title VARCHAR(80) NOT NULL,
+author VARCHAR(60),
+genre VARCHAR(40),
+copies_available INT NOT NULL
+);
+
+/* o/p
+Query OK, 0 rows affected (0.02 sec)
+*/
+
+-- mysql>
+CREATE TABLE student (
+student_id INT PRIMARY KEY AUTO_INCREMENT,
+student_name VARCHAR(60) NOT NULL
+);
+
+/* o/p
+Query OK, 0 rows affected (0.02 sec)
+*/
 
 -- mysql>
 CREATE TABLE borrow_record (

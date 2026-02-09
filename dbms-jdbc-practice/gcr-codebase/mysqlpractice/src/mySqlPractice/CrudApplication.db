@@ -1,0 +1,61 @@
+create table employees (empID varchar(4) primary key, EmpFname varchar(25), EmpLname varchar(25), salary decimal, JoinYear int);
+Query OK, 0 rows affected (0.09 sec)
+
+
+--- Add Employees---
+
+insert into employees values("E001","Himesh","Kurmi","75000","2020"),("E002","Nageshwar","Patel","55000","2023"),("E003","Lucky","Pal","65000","2024"),("E004","Rajeev","Kurmi","45000","2022");
+Query OK, 4 rows affected (0.02 sec)
+Records: 4  Duplicates: 0  Warnings: 0
+
+--- View all employees ---
+
+select * from employees;
++-------+-----------+----------+--------+----------+
+| empID | EmpFname  | EmpLname | salary | JoinYear |
++-------+-----------+----------+--------+----------+
+| E001  | Himesh    | Kurmi    |  75000 |     2020 |
+| E002  | Nageshwar | Patel    |  55000 |     2023 |
+| E003  | Lucky     | Pal      |  65000 |     2024 |
+| E004  | Rajeev    | Kurmi    |  45000 |     2022 |
++-------+-----------+----------+--------+----------+
+4 rows in set (0.00 sec)
+
+--- Update employee salary ---
+
+update employees set salary =(salary+ salary*0.1);
+Query OK, 4 rows affected (0.01 sec)
+
++-------+-----------+----------+--------+----------+
+| empID | EmpFname  | EmpLname | salary | JoinYear |
++-------+-----------+----------+--------+----------+
+| E001  | Himesh    | Kurmi    |  82500 |     2020 |
+| E002  | Nageshwar | Patel    |  60500 |     2023 |
+| E003  | Lucky     | Pal      |  71500 |     2024 |
+| E004  | Rajeev    | Kurmi    |  49500 |     2022 |
++-------+-----------+----------+--------+----------+
+4 rows in set (0.02 sec)
+
+--- Delete employee ---
+
+delete from employees where EmpFname="Nageshwar";
+Query OK, 1 row affected (0.01 sec)
+
++-------+-----------+----------+--------+----------+
+| empID | EmpFname  | EmpLname | salary | JoinYear |
++-------+-----------+----------+--------+----------+
+| E002  | Nageshwar | Patel    |  60500 |     2023 |
+| E003  | Lucky     | Pal      |  71500 |     2024 |
+| E004  | Rajeev    | Kurmi    |  49500 |     2022 |
++-------+-----------+----------+--------+----------+
+3 rows in set (0.00 sec)
+
+--- Search employee by name ---
+
+ select * from employees where EmpFname = "Lucky";
++-------+----------+----------+--------+----------+
+| empID | EmpFname | EmpLname | salary | JoinYear |
++-------+----------+----------+--------+----------+
+| E003  | Lucky    | Pal      |  71500 |     2024 |
++-------+----------+----------+--------+----------+
+1 row in set (0.01 sec)

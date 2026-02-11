@@ -1,0 +1,57 @@
+---- Patient Management ----
+-------------------------------------------------------------
+
+--- UC-1.1: Register New Patient ---
+
+create table patient(PID int primary key auto_increment,name varchar(50), DOB varchar(20), contact int unique not null, address varchar(50), blood_grp varchar(3));
+Query OK, 0 rows affected (0.04 sec)
+
+ describe patient;
++-----------+-------------+------+-----+---------+----------------+
+| Field     | Type        | Null | Key | Default | Extra          |
++-----------+-------------+------+-----+---------+----------------+
+| PID       | int         | NO   | PRI | NULL    | auto_increment |
+| name      | varchar(50) | YES  |     | NULL    |                |
+| DOB       | varchar(20) | YES  |     | NULL    |                |
+| contact   | int         | NO   | UNI | NULL    |                |
+| address   | varchar(50) | YES  |     | NULL    |                |
+| blood_grp | varchar(3)  | YES  |     | NULL    |                |
++-----------+-------------+------+-----+---------+----------------+
+
+
+--- UC-1.2: Update Patient Information ---
+INSERT INTO patient (name, DOB, contact, address, blood_grp) 
+VALUES ('Nageshwar', '02-07-2004', '1254367672', 'Katni', 'O+'), 
+('Lucky', '05-12-2003', '1245254168', 'Bhopal', 'A+'),
+('Himesh', '01-12-2004', '1253784632', 'Sagar', 'B+');
+
+ select * from patient;
++-----+-----------+------------+------------+---------+-----------+
+| PID | name      | DOB        | contact    | address | blood_grp |
++-----+-----------+------------+------------+---------+-----------+
+|   1 | Nageshwar | 02-07-2004 | 1254367672 | Katni   | O+        |
+|   2 | Lucky     | 05-12-2003 | 1245254168 | Bhopal  | A+        |
+|   3 | Himesh    | 01-12-2004 | 1253784632 | Sagar   | B+        |
++-----+-----------+------------+------------+---------+-----------
+
+
+---- UC-1.3: Search Patient Records ----
+mysql> select * from patient where name like 'H%';
++-----+--------+------------+------------+---------+-----------+
+| PID | name   | DOB        | contact    | address | blood_grp |
++-----+--------+------------+------------+---------+-----------+
+|   3 | Himesh | 01-12-2004 | 1253784632 | Sagar   | B+        |
++-----+--------+------------+------------+---------+-----------+
+1 row in set (0.01 sec)
+
+mysql> select * from patient where contact= '1245254168';
++-----+-------+------------+------------+---------+-----------+
+| PID | name  | DOB        | contact    | address | blood_grp |
++-----+-------+------------+------------+---------+-----------+
+|   2 | Lucky | 05-12-2003 | 1245254168 | Bhopal  | A+        |
++-----+-------+------------+------------+---------+-----------+
+1 row in set (0.00 sec)
+
+UC-1.4: View Patient Visit History
+Actor: Doctor/Receptionist
+Flow: Execute JOIN query between appointments and visits tables filtered by patient ID. Display chronological list with doctor names and diagnoses.

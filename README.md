@@ -841,4 +841,6 @@ BridgeLabz-Training/
  - JDBC practice
 👉 [JDbC practice](https://github.com/Himesh01/Bridgelabz-Training/tree/dbms-jdbc-practice/dbms-jdbc-practice/gcr-codebase/mysqlpractice/src/jdbcpractice/DatabaseConnection)
 
+- Solved scenario based problems 
+- Scenario based of JDBC
 ---
